@@ -12,7 +12,7 @@ DESCRIPTION
 	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequence.
+	Genomic Sequence
     
 USAGE
 
@@ -21,6 +21,7 @@ USAGE
     	example
     
     		% python reverse-complement -i sequence.txt
+
 
 '''
 

@@ -5,7 +5,7 @@ VERSION
         1.0
 
 AUTHOR
-        Hely Salgado
+        Hely Salgado,Edgar Leal
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
