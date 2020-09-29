@@ -6,13 +6,13 @@ VERSION
     1.0
     
 AUTHOR
-	Hely Salgado, Edgar Leal
+	Hely Salgado, Edgar LEal
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
     
 CATEGORY
-	Genomic Sequence
+	Genomic Sequence.
     
 USAGE
 
